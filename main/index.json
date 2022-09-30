@@ -6,5 +6,14 @@
         "colour of frame":"black",
         "price range":"800-1000rs",
         "brand":"wileyX"
-    }
+    },
+    
+     {
+        "id":"2",
+        "shape":"Grey Square Unisex",
+        "frame":"metal",
+        "colour of frame":"Grey",
+        "price range":"300-1000rs",
+        "brand":"FASTRACK"
+    },
 ]
