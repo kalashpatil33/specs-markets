@@ -46,5 +46,13 @@
         "colour of frame":"black",
         "price range":"600-1000rs",
         "brand":"Lenskart"
+    },
+    {
+        "id":"7",
+        "shape":"Eyewear",
+        "frame":"plastic",
+        "colour of frame":"blue",
+        "price range":"60-1000rs",
+        "brand":"Lenskart"
     }
 ]
