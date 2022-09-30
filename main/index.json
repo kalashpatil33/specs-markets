@@ -64,5 +64,13 @@
         "price range":"60-1000rs",
         "brand":"Lenskart"
 
-    }
+    },
+     {
+        "id":"8",
+        "shape":"Sqaure",
+        "frame":"plastic",
+        "colour of frame":"white",
+        "price range":"500-1000rs",
+        "brand":"Lenskart"
+    },
 ]
