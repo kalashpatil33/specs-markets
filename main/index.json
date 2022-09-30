@@ -65,4 +65,14 @@
         "brand":"Lenskart"
 
     }
+      {
+        "id":"15",
+        "shape":"Sunglasses",
+        "frame":"plastic",
+        "colour of frame":"black",
+        "price range":"300-500rs",
+        "brand":"Walrus"
+
+    }
+    
 ]
