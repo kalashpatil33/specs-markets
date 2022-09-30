@@ -23,5 +23,13 @@
         "colour of frame":"Grey",
         "price range":"300-1000rs",
         "brand":"Lenskart"
+    },
+    {
+        "id":"4",
+        "shape":"trimmer",
+        "frame":"plastic",
+        "colour of frame":"Grey",
+        "price range":"300-1000rs",
+        "brand":"Lenskart"
     }
 ]
