@@ -33,6 +33,14 @@
         "brand":"Lenskart"
     },
     {
+
+        "id":"6",
+        "shape":"Specs",
+        "frame":"mettalic",
+        "colour of frame":"Pink",
+        "price range":"300-1000rs",
+        "brand":"Lenskart"
+
         "id":"5",
         "shape":"oval",
         "frame":"plastic",
@@ -55,5 +63,6 @@
         "colour of frame":"blue",
         "price range":"60-1000rs",
         "brand":"Lenskart"
+
     }
 ]
