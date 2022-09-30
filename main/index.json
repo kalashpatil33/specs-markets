@@ -6,5 +6,13 @@
         "colour of frame":"black",
         "price range":"800-1000rs",
         "brand":"wileyX"
+    },
+    {
+        "id":"3",
+        "shape":"HALF-RIM",
+        "frame":"metal",
+        "colour of frame":"blue",
+        "price range":"800-1000rs",
+        "brand":"Lenskart"
     }
 ]
