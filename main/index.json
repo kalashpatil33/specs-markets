@@ -7,9 +7,16 @@
         "price range":"800-1000rs",
         "brand":"wileyX"
     },
-    
-     {
+
+    {
         "id":"2",
+        "shape":"HALF-RIM",
+        "frame":"metal",
+        "colour of frame":"blue",
+        "price range":"800-1000rs",
+    },
+    {
+        "id":"3",
         "shape":"Grey Square Unisex",
         "frame":"metal",
         "colour of frame":"Grey",
@@ -17,7 +24,7 @@
         "brand":"FASTRACK"
     },
     {
-        "id":"3",
+        "id":"4",
         "shape":"Half rim",
         "frame":"metal",
         "colour of frame":"Grey",
@@ -25,7 +32,7 @@
         "brand":"Lenskart"
     },
     {
-        "id":"4",
+        "id":"5",
         "shape":"trimmer",
         "frame":"plastic",
         "colour of frame":"Grey",
