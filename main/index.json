@@ -16,4 +16,12 @@
         "price range":"300-1000rs",
         "brand":"FASTRACK"
     },
+    {
+        "id":"3",
+        "shape":"Half rim",
+        "frame":"metal",
+        "colour of frame":"Grey",
+        "price range":"300-1000rs",
+        "brand":"Lenskart"
+    }
 ]
